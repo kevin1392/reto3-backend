@@ -1,6 +1,6 @@
 # reto3-backend
 
-Clonar repositorio
+Clonar repositorio:
     luego instalar dependecias:
     npm install
       
