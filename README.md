@@ -4,8 +4,8 @@
     luego instalar dependecias:
       npm install
       
-#Ejecutar:
+Ejecutar:
   node server.js
   
-#Abrir navegador en :
+Abrir navegador en :
   localhost:3000
