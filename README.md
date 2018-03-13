@@ -1,5 +1,7 @@
 # reto3-backend
 
+CRUD con NodeJS y MongoDB (mlab)
+
 Clonar repositorio:
     
     luego instalar dependecias:
